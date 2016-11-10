@@ -137,6 +137,7 @@ body{
  .center-1{
  	color:#D8D8D8;
  	text-align: center;
+    display: inline-block
  	margin-top: 25px;
  	font-size: 16px;
  }
@@ -144,5 +145,6 @@ body{
  .center-2{
  	color:#A4A4A4;
  	text-align: center;
+    display: inline-block
  	margin-top: 25px;
  	font-size: 14px;
